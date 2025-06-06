@@ -125,18 +125,18 @@ include_directories(
 
 add_executable(admin_biblioteca
         main_administrator.cpp
-        administrator/Administrator.cpp
-        administrator/Carte.cpp
+        shared/classes/administrator/Administrator.cpp
+        shared/classes/administrator/Carte.cpp
 )
 
 add_executable(utilizator_biblioteca
         main_utilizator.cpp
-        utilizator/Utilizator.cpp
-        utilizator/Cos.cpp
-        utilizator/Data.cpp
-        utilizator/Imprumut.cpp
-        fisiere/GestionareFisiere.cpp
-        administrator/Carte.cpp
+        shared/classes/utilizator/Utilizator.cpp
+        shared/classes/utilizator/Cos.cpp
+        shared/classes/utilizator/Data.cpp
+        shared/classes/utilizator/Imprumut.cpp
+        shared/classes/gestionareFisiere/GestionareFisiere.cpp
+        shared/classes/administrator/Carte.cpp
 )
 
 # ================= Interfață grafică =================
@@ -165,13 +165,13 @@ set(IMGUI_SRC
 add_executable(Biblioteca_virtuala
         main.cpp
         ${IMGUI_SRC}
-        administrator/Administrator.cpp
-        administrator/Carte.cpp
-        utilizator/Utilizator.cpp
-        utilizator/Cos.cpp
-        utilizator/Data.cpp
-        utilizator/Imprumut.cpp
-        fisiere/GestionareFisiere.cpp
+        shared/classes/administrator/Administrator.cpp
+        shared/classes/administrator/Carte.cpp
+        shared/classes/utilizator/Utilizator.cpp
+        shared/classes/utilizator/Cos.cpp
+        shared/classes/utilizator/Data.cpp
+        shared/classes/utilizator/Imprumut.cpp
+        shared/classes/gestionareFisiere/GestionareFisiere.cpp
 )
 
 target_link_libraries(Biblioteca_virtuala

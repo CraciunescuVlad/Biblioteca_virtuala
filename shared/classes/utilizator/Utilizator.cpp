@@ -1,7 +1,7 @@
 #include "Utilizator.h"
 #include "../utilizator/Data.h"
 #include "../utilizator/Imprumut.h"
-#include "../fisiere/GestionareFisiere.h"
+#include "../gestionareFisiere/GestionareFisiere.h"
 #include "../administrator/Carte.h"
 #include <ctime>
 #include <iostream>

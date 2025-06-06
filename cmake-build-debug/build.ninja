@@ -56,19 +56,19 @@ build CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj: CXX_COMPILER__
   OBJECT_DIR = CMakeFiles\admin_biblioteca.dir
   OBJECT_FILE_DIR = CMakeFiles\admin_biblioteca.dir
 
-build CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj: CXX_COMPILER__admin_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/administrator/Administrator.cpp || cmake_object_order_depends_target_admin_biblioteca
-  DEP_FILE = CMakeFiles\admin_biblioteca.dir\administrator\Administrator.cpp.obj.d
+build CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj: CXX_COMPILER__admin_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/administrator/Administrator.cpp || cmake_object_order_depends_target_admin_biblioteca
+  DEP_FILE = CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Administrator.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\admin_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\admin_biblioteca.dir\administrator
+  OBJECT_FILE_DIR = CMakeFiles\admin_biblioteca.dir\shared\classes\administrator
 
-build CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: CXX_COMPILER__admin_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/administrator/Carte.cpp || cmake_object_order_depends_target_admin_biblioteca
-  DEP_FILE = CMakeFiles\admin_biblioteca.dir\administrator\Carte.cpp.obj.d
+build CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CXX_COMPILER__admin_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp || cmake_object_order_depends_target_admin_biblioteca
+  DEP_FILE = CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\admin_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\admin_biblioteca.dir\administrator
+  OBJECT_FILE_DIR = CMakeFiles\admin_biblioteca.dir\shared\classes\administrator
 
 
 # =============================================================================
@@ -78,7 +78,7 @@ build CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable admin_biblioteca.exe
 
-build admin_biblioteca.exe: CXX_EXECUTABLE_LINKER__admin_biblioteca_Debug CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj
+build admin_biblioteca.exe: CXX_EXECUTABLE_LINKER__admin_biblioteca_Debug CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\admin_biblioteca.dir
@@ -104,47 +104,47 @@ build CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj: CXX_COMPILER
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
   OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir
 
-build CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Utilizator.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\utilizator\Utilizator.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Utilizator.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Utilizator.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator
 
-build CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Cos.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\utilizator\Cos.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Cos.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Cos.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator
 
-build CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Data.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\utilizator\Data.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Data.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator
 
-build CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Imprumut.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\utilizator\Imprumut.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Imprumut.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator
 
-build CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/fisiere/GestionareFisiere.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\fisiere\GestionareFisiere.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/gestionareFisiere/GestionareFisiere.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\fisiere
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere
 
-build CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/administrator/Carte.cpp || cmake_object_order_depends_target_utilizator_biblioteca
-  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\administrator\Carte.cpp.obj.d
+build CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CXX_COMPILER__utilizator_biblioteca_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp || cmake_object_order_depends_target_utilizator_biblioteca
+  DEP_FILE = CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
-  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\administrator
+  OBJECT_FILE_DIR = CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator
 
 
 # =============================================================================
@@ -154,7 +154,7 @@ build CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: CXX_COMP
 #############################################
 # Link the executable utilizator_biblioteca.exe
 
-build utilizator_biblioteca.exe: CXX_EXECUTABLE_LINKER__utilizator_biblioteca_Debug CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj
+build utilizator_biblioteca.exe: CXX_EXECUTABLE_LINKER__utilizator_biblioteca_Debug CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\utilizator_biblioteca.dir
@@ -222,54 +222,54 @@ build CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_open
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
   OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\external\imgui\backends
 
-build CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/administrator/Administrator.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\administrator\Administrator.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/administrator/Administrator.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Administrator.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\administrator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator
 
-build CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/administrator/Carte.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\administrator\Carte.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Carte.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\administrator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator
 
-build CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Utilizator.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\utilizator\Utilizator.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Utilizator.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Utilizator.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator
 
-build CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Cos.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\utilizator\Cos.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Cos.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Cos.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator
 
-build CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Data.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\utilizator\Data.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Data.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator
 
-build CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/utilizator/Imprumut.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\utilizator\Imprumut.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Imprumut.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\utilizator
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator
 
-build CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/fisiere/GestionareFisiere.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
-  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\fisiere\GestionareFisiere.cpp.obj.d
+build CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CXX_COMPILER__Biblioteca_virtuala_unscanned_Debug D$:/Facultate/Anu$ 1/Semestrul$ 2/Biblioteca_virtuala/shared/classes/gestionareFisiere/GestionareFisiere.cpp || cmake_object_order_depends_target_Biblioteca_virtuala
+  DEP_FILE = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj.d
   FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/imgui/backends" -I"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/include"
   OBJECT_DIR = CMakeFiles\Biblioteca_virtuala.dir
-  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\fisiere
+  OBJECT_FILE_DIR = CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere
 
 
 # =============================================================================
@@ -279,7 +279,7 @@ build CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: CXX_
 #############################################
 # Link the executable Biblioteca_virtuala.exe
 
-build Biblioteca_virtuala.exe: CXX_EXECUTABLE_LINKER__Biblioteca_virtuala_Debug CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_draw.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_widgets.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_tables.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_glfw.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj
+build Biblioteca_virtuala.exe: CXX_EXECUTABLE_LINKER__Biblioteca_virtuala_Debug CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_draw.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_widgets.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_tables.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_glfw.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lglfw3  -lopengl32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   LINK_PATH = -L"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/lib-mingw-w64"
