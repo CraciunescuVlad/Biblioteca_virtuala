@@ -1,0 +1,5 @@
+D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/build/CMakeFiles/admin_biblioteca.dir
+D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/build/CMakeFiles/utilizator_biblioteca.dir
+D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/build/CMakeFiles/Biblioteca_virtuala.dir
+D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/build/CMakeFiles/edit_cache.dir
+D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/build/CMakeFiles/rebuild_cache.dir

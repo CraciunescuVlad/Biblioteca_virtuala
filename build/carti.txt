@@ -1,0 +1,21 @@
+5
+67890
+Carte 2
+Autor 2
+0
+12345
+Carte 1
+Autor 1
+0
+2006
+Carte 3
+Autor 3
+0
+3006
+Carte 4
+Autor 4
+1
+230106
+Test cu Anda
+Autor
+4

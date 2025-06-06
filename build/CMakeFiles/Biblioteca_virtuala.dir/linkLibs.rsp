@@ -1,0 +1,1 @@
+  -L"D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/external/glfw/lib-mingw-w64"  -lglfw3 -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

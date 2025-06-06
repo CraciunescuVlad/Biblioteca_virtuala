@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BibliotecaVirtuala",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Biblioteca_virtuala::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Biblioteca_virtuala-Debug-fac72d0adb3c8ff844e4.json",
+					"name" : "Biblioteca_virtuala",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "admin_biblioteca::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-admin_biblioteca-Debug-a663ebd8715dfa2b70e8.json",
+					"name" : "admin_biblioteca",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "utilizator_biblioteca::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-utilizator_biblioteca-Debug-d2bba22610701afbf95c.json",
+					"name" : "utilizator_biblioteca",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/cmake-build-debug",
+		"source" : "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
