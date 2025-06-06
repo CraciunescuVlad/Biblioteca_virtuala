@@ -1,4 +1,4 @@
-6
+5
 67890
 Carte 2
 Autor 2
@@ -15,10 +15,6 @@ Autor 3
 Carte 4
 Autor 4
 1
-230106
-Test cu Anda
-Autor
-2
 100
 Test Titlu
 Test Autor

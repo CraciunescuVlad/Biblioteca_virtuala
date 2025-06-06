@@ -86,116 +86,116 @@ CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.s"
 	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\main_utilizator.cpp" -o CMakeFiles\utilizator_biblioteca.dir\main_utilizator.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Utilizator.cpp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\utilizator\Utilizator.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Utilizator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Utilizator.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Utilizator.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Utilizator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp" > CMakeFiles\utilizator_biblioteca.dir\utilizator\Utilizator.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Utilizator.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp" -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Utilizator.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Utilizator.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Cos.cpp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\utilizator\Cos.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Cos.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Cos.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Cos.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Cos.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp" > CMakeFiles\utilizator_biblioteca.dir\utilizator\Cos.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Cos.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp" -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Cos.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Cos.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Data.cpp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\utilizator\Data.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Data.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Data.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Data.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp" > CMakeFiles\utilizator_biblioteca.dir\utilizator\Data.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Data.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp" -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Data.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Data.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Imprumut.cpp
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\utilizator\Imprumut.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Imprumut.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Imprumut.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Imprumut.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp" > CMakeFiles\utilizator_biblioteca.dir\utilizator\Imprumut.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Imprumut.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp" -o CMakeFiles\utilizator_biblioteca.dir\utilizator\Imprumut.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\utilizator\Imprumut.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/fisiere/GestionareFisiere.cpp
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\fisiere\GestionareFisiere.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\fisiere\GestionareFisiere.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/gestionareFisiere/GestionareFisiere.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp" > CMakeFiles\utilizator_biblioteca.dir\fisiere\GestionareFisiere.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp" -o CMakeFiles\utilizator_biblioteca.dir\fisiere\GestionareFisiere.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.s
 
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Carte.cpp
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\administrator\Carte.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp"
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/flags.make
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/utilizator_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj -MF CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj.d -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp"
 
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" > CMakeFiles\utilizator_biblioteca.dir\administrator\Carte.cpp.i
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" > CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator\Carte.cpp.i
 
-CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" -o CMakeFiles\utilizator_biblioteca.dir\administrator\Carte.cpp.s
+CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" -o CMakeFiles\utilizator_biblioteca.dir\shared\classes\administrator\Carte.cpp.s
 
 # Object files for target utilizator_biblioteca
 utilizator_biblioteca_OBJECTS = \
 "CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj" \
-"CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj"
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj" \
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj" \
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj" \
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj" \
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj" \
+"CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj"
 
 # External object files for target utilizator_biblioteca
 utilizator_biblioteca_EXTERNAL_OBJECTS =
 
 utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj
-utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
+utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
 utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/build.make
 utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/linkLibs.rsp
 utilizator_biblioteca.exe: CMakeFiles/utilizator_biblioteca.dir/objects1.rsp

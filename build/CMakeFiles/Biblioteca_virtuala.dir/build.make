@@ -176,110 +176,110 @@ CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cp
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cpp.s"
 	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\external\imgui\backends\imgui_impl_opengl3.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\external\imgui\backends\imgui_impl_opengl3.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Administrator.cpp
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\administrator\Administrator.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\administrator\Administrator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Administrator.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Administrator.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Administrator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp" > CMakeFiles\Biblioteca_virtuala.dir\administrator\Administrator.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Administrator.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\administrator\Administrator.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Administrator.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Carte.cpp
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\administrator\Carte.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Carte.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" > CMakeFiles\Biblioteca_virtuala.dir\administrator\Carte.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Carte.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\administrator\Carte.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\administrator\Carte.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Utilizator.cpp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\utilizator\Utilizator.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Utilizator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Utilizator.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Utilizator.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Utilizator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp" > CMakeFiles\Biblioteca_virtuala.dir\utilizator\Utilizator.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Utilizator.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Utilizator.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Utilizator.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Utilizator.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Utilizator.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Cos.cpp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\utilizator\Cos.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Cos.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Cos.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Cos.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Cos.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp" > CMakeFiles\Biblioteca_virtuala.dir\utilizator\Cos.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Cos.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Cos.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Cos.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Cos.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Cos.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Data.cpp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\utilizator\Data.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Data.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Data.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Data.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp" > CMakeFiles\Biblioteca_virtuala.dir\utilizator\Data.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Data.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Data.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Data.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Data.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Data.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Imprumut.cpp
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\utilizator\Imprumut.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Imprumut.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Imprumut.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Imprumut.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp" > CMakeFiles\Biblioteca_virtuala.dir\utilizator\Imprumut.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Imprumut.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\utilizator\Imprumut.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\utilizator\Imprumut.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\utilizator\Imprumut.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\utilizator\Imprumut.cpp.s
 
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/fisiere/GestionareFisiere.cpp
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\fisiere\GestionareFisiere.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\fisiere\GestionareFisiere.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp"
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/flags.make
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/includes_CXX.rsp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/gestionareFisiere/GestionareFisiere.cpp
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj: CMakeFiles/Biblioteca_virtuala.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj -MF CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj.d -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp"
 
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp" > CMakeFiles\Biblioteca_virtuala.dir\fisiere\GestionareFisiere.cpp.i
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp" > CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.i
 
-CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\fisiere\GestionareFisiere.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\fisiere\GestionareFisiere.cpp.s
+CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\gestionareFisiere\GestionareFisiere.cpp" -o CMakeFiles\Biblioteca_virtuala.dir\shared\classes\gestionareFisiere\GestionareFisiere.cpp.s
 
 # Object files for target Biblioteca_virtuala
 Biblioteca_virtuala_OBJECTS = \
@@ -290,13 +290,13 @@ Biblioteca_virtuala_OBJECTS = \
 "CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_tables.cpp.obj" \
 "CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_glfw.cpp.obj" \
 "CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj" \
-"CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj"
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj" \
+"CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj"
 
 # External object files for target Biblioteca_virtuala
 Biblioteca_virtuala_EXTERNAL_OBJECTS =
@@ -308,13 +308,13 @@ Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_tables.cpp.obj
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_glfw.cpp.obj
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/external/imgui/backends/imgui_impl_opengl3.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj
-Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj
+Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/build.make
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/linkLibs.rsp
 Biblioteca_virtuala.exe: CMakeFiles/Biblioteca_virtuala.dir/objects1.rsp

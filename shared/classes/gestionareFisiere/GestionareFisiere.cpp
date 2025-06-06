@@ -1,5 +1,5 @@
 #include "GestionareFisiere.h"
-#include "Carte.h"
+#include "../administrator/Carte.h"
 #include "../utilizator/Imprumut.h"
 #include <fstream>
 #include <iostream>

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include "administrator/Administrator.h"
-#include "administrator/Carte.h"
+#include "shared/classes/administrator/Administrator.h"
+#include "shared/classes/administrator/Carte.h"
 using namespace std;
 int main(int argc, char* argv[]) {
     Administrator admin;

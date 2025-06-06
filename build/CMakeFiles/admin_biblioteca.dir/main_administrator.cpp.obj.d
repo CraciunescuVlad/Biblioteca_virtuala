@@ -142,11 +142,11 @@ CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj: \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/ostream.tcc \
  C:/mingw-w64/mingw64/include/c++/13.2.0/istream \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/istream.tcc \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\administrator/Administrator.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/administrator/Administrator.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/vector \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_uninitialized.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_vector.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_bvector.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/vector.tcc \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\administrator/Carte.h \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\administrator/Carte.h
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/administrator/Carte.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/administrator/Carte.h

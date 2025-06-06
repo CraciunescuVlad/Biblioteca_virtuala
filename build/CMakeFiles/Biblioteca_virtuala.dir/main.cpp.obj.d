@@ -1,6 +1,6 @@
 CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj: \
  D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\main.cpp \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\administrator/Administrator.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/administrator/Administrator.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/string \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -103,7 +103,7 @@ CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj: \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_vector.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_bvector.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/vector.tcc \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\administrator/Carte.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/administrator/Carte.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/iostream \
  C:/mingw-w64/mingw64/include/c++/13.2.0/ostream \
  C:/mingw-w64/mingw64/include/c++/13.2.0/ios \
@@ -149,8 +149,8 @@ CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj: \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/ostream.tcc \
  C:/mingw-w64/mingw64/include/c++/13.2.0/istream \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/istream.tcc \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\utilizator/Utilizator.h \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\utilizator/Cos.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/utilizator/Utilizator.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/utilizator/Cos.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/map \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_tree.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/ext/aligned_buffer.h \
@@ -158,13 +158,13 @@ CMakeFiles/Biblioteca_virtuala.dir/main.cpp.obj: \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_map.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/stl_multimap.h \
  C:/mingw-w64/mingw64/include/c++/13.2.0/bits/erase_if.h \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\utilizator/Imprumut.h \
- D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Carte.h \
- D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Data.h \
- D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\fisiere/GestionareFisiere.h \
- D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Carte.h \
- D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Data.h \
- D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/utilizator/Imprumut.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/utilizator/Imprumut.h \
+ D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.h \
+ D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.h \
+ D:\Facultate\Anu\ 1\Semestrul\ 2\Biblioteca_virtuala\shared/classes/gestionareFisiere/GestionareFisiere.h \
+ D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.h \
+ D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Data.h \
+ D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.h \
  D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/external/imgui/imgui.h \
  D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/external/imgui/imconfig.h \
  C:/mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/float.h \

@@ -154,63 +154,6 @@ Biblioteca_virtuala/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/build
 .PHONY : Biblioteca_virtuala/fast
 
-administrator/Administrator.obj: administrator/Administrator.cpp.obj
-.PHONY : administrator/Administrator.obj
-
-# target to build an object file
-administrator/Administrator.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.obj
-.PHONY : administrator/Administrator.cpp.obj
-
-administrator/Administrator.i: administrator/Administrator.cpp.i
-.PHONY : administrator/Administrator.i
-
-# target to preprocess a source file
-administrator/Administrator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.i
-.PHONY : administrator/Administrator.cpp.i
-
-administrator/Administrator.s: administrator/Administrator.cpp.s
-.PHONY : administrator/Administrator.s
-
-# target to generate assembly for a file
-administrator/Administrator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Administrator.cpp.s
-.PHONY : administrator/Administrator.cpp.s
-
-administrator/Carte.obj: administrator/Carte.cpp.obj
-.PHONY : administrator/Carte.obj
-
-# target to build an object file
-administrator/Carte.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.obj
-.PHONY : administrator/Carte.cpp.obj
-
-administrator/Carte.i: administrator/Carte.cpp.i
-.PHONY : administrator/Carte.i
-
-# target to preprocess a source file
-administrator/Carte.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.i
-.PHONY : administrator/Carte.cpp.i
-
-administrator/Carte.s: administrator/Carte.cpp.s
-.PHONY : administrator/Carte.s
-
-# target to generate assembly for a file
-administrator/Carte.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/administrator/Carte.cpp.s
-.PHONY : administrator/Carte.cpp.s
-
 external/imgui/backends/imgui_impl_glfw.obj: external/imgui/backends/imgui_impl_glfw.cpp.obj
 .PHONY : external/imgui/backends/imgui_impl_glfw.obj
 
@@ -355,33 +298,6 @@ external/imgui/imgui_widgets.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/external/imgui/imgui_widgets.cpp.s
 .PHONY : external/imgui/imgui_widgets.cpp.s
 
-fisiere/GestionareFisiere.obj: fisiere/GestionareFisiere.cpp.obj
-.PHONY : fisiere/GestionareFisiere.obj
-
-# target to build an object file
-fisiere/GestionareFisiere.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.obj
-.PHONY : fisiere/GestionareFisiere.cpp.obj
-
-fisiere/GestionareFisiere.i: fisiere/GestionareFisiere.cpp.i
-.PHONY : fisiere/GestionareFisiere.i
-
-# target to preprocess a source file
-fisiere/GestionareFisiere.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.i
-.PHONY : fisiere/GestionareFisiere.cpp.i
-
-fisiere/GestionareFisiere.s: fisiere/GestionareFisiere.cpp.s
-.PHONY : fisiere/GestionareFisiere.s
-
-# target to generate assembly for a file
-fisiere/GestionareFisiere.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/fisiere/GestionareFisiere.cpp.s
-.PHONY : fisiere/GestionareFisiere.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -454,113 +370,197 @@ main_utilizator.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.s
 .PHONY : main_utilizator.cpp.s
 
-utilizator/Cos.obj: utilizator/Cos.cpp.obj
-.PHONY : utilizator/Cos.obj
+shared/classes/administrator/Administrator.obj: shared/classes/administrator/Administrator.cpp.obj
+.PHONY : shared/classes/administrator/Administrator.obj
 
 # target to build an object file
-utilizator/Cos.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.obj
-.PHONY : utilizator/Cos.cpp.obj
+shared/classes/administrator/Administrator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.obj
+.PHONY : shared/classes/administrator/Administrator.cpp.obj
 
-utilizator/Cos.i: utilizator/Cos.cpp.i
-.PHONY : utilizator/Cos.i
+shared/classes/administrator/Administrator.i: shared/classes/administrator/Administrator.cpp.i
+.PHONY : shared/classes/administrator/Administrator.i
 
 # target to preprocess a source file
-utilizator/Cos.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.i
-.PHONY : utilizator/Cos.cpp.i
+shared/classes/administrator/Administrator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.i
+.PHONY : shared/classes/administrator/Administrator.cpp.i
 
-utilizator/Cos.s: utilizator/Cos.cpp.s
-.PHONY : utilizator/Cos.s
+shared/classes/administrator/Administrator.s: shared/classes/administrator/Administrator.cpp.s
+.PHONY : shared/classes/administrator/Administrator.s
 
 # target to generate assembly for a file
-utilizator/Cos.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Cos.cpp.s
-.PHONY : utilizator/Cos.cpp.s
+shared/classes/administrator/Administrator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Administrator.cpp.s
+.PHONY : shared/classes/administrator/Administrator.cpp.s
 
-utilizator/Data.obj: utilizator/Data.cpp.obj
-.PHONY : utilizator/Data.obj
+shared/classes/administrator/Carte.obj: shared/classes/administrator/Carte.cpp.obj
+.PHONY : shared/classes/administrator/Carte.obj
 
 # target to build an object file
-utilizator/Data.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.obj
-.PHONY : utilizator/Data.cpp.obj
+shared/classes/administrator/Carte.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.obj
+.PHONY : shared/classes/administrator/Carte.cpp.obj
 
-utilizator/Data.i: utilizator/Data.cpp.i
-.PHONY : utilizator/Data.i
+shared/classes/administrator/Carte.i: shared/classes/administrator/Carte.cpp.i
+.PHONY : shared/classes/administrator/Carte.i
 
 # target to preprocess a source file
-utilizator/Data.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.i
-.PHONY : utilizator/Data.cpp.i
+shared/classes/administrator/Carte.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.i
+.PHONY : shared/classes/administrator/Carte.cpp.i
 
-utilizator/Data.s: utilizator/Data.cpp.s
-.PHONY : utilizator/Data.s
+shared/classes/administrator/Carte.s: shared/classes/administrator/Carte.cpp.s
+.PHONY : shared/classes/administrator/Carte.s
 
 # target to generate assembly for a file
-utilizator/Data.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Data.cpp.s
-.PHONY : utilizator/Data.cpp.s
+shared/classes/administrator/Carte.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\admin_biblioteca.dir\build.make CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/administrator/Carte.cpp.s
+.PHONY : shared/classes/administrator/Carte.cpp.s
 
-utilizator/Imprumut.obj: utilizator/Imprumut.cpp.obj
-.PHONY : utilizator/Imprumut.obj
+shared/classes/gestionareFisiere/GestionareFisiere.obj: shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.obj
 
 # target to build an object file
-utilizator/Imprumut.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.obj
-.PHONY : utilizator/Imprumut.cpp.obj
+shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj
 
-utilizator/Imprumut.i: utilizator/Imprumut.cpp.i
-.PHONY : utilizator/Imprumut.i
+shared/classes/gestionareFisiere/GestionareFisiere.i: shared/classes/gestionareFisiere/GestionareFisiere.cpp.i
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.i
 
 # target to preprocess a source file
-utilizator/Imprumut.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.i
-.PHONY : utilizator/Imprumut.cpp.i
+shared/classes/gestionareFisiere/GestionareFisiere.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.i
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.cpp.i
 
-utilizator/Imprumut.s: utilizator/Imprumut.cpp.s
-.PHONY : utilizator/Imprumut.s
+shared/classes/gestionareFisiere/GestionareFisiere.s: shared/classes/gestionareFisiere/GestionareFisiere.cpp.s
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.s
 
 # target to generate assembly for a file
-utilizator/Imprumut.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Imprumut.cpp.s
-.PHONY : utilizator/Imprumut.cpp.s
+shared/classes/gestionareFisiere/GestionareFisiere.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.s
+.PHONY : shared/classes/gestionareFisiere/GestionareFisiere.cpp.s
 
-utilizator/Utilizator.obj: utilizator/Utilizator.cpp.obj
-.PHONY : utilizator/Utilizator.obj
+shared/classes/utilizator/Cos.obj: shared/classes/utilizator/Cos.cpp.obj
+.PHONY : shared/classes/utilizator/Cos.obj
 
 # target to build an object file
-utilizator/Utilizator.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.obj
-.PHONY : utilizator/Utilizator.cpp.obj
+shared/classes/utilizator/Cos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.obj
+.PHONY : shared/classes/utilizator/Cos.cpp.obj
 
-utilizator/Utilizator.i: utilizator/Utilizator.cpp.i
-.PHONY : utilizator/Utilizator.i
+shared/classes/utilizator/Cos.i: shared/classes/utilizator/Cos.cpp.i
+.PHONY : shared/classes/utilizator/Cos.i
 
 # target to preprocess a source file
-utilizator/Utilizator.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.i
-.PHONY : utilizator/Utilizator.cpp.i
+shared/classes/utilizator/Cos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.i
+.PHONY : shared/classes/utilizator/Cos.cpp.i
 
-utilizator/Utilizator.s: utilizator/Utilizator.cpp.s
-.PHONY : utilizator/Utilizator.s
+shared/classes/utilizator/Cos.s: shared/classes/utilizator/Cos.cpp.s
+.PHONY : shared/classes/utilizator/Cos.s
 
 # target to generate assembly for a file
-utilizator/Utilizator.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/utilizator/Utilizator.cpp.s
-.PHONY : utilizator/Utilizator.cpp.s
+shared/classes/utilizator/Cos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Cos.cpp.s
+.PHONY : shared/classes/utilizator/Cos.cpp.s
+
+shared/classes/utilizator/Data.obj: shared/classes/utilizator/Data.cpp.obj
+.PHONY : shared/classes/utilizator/Data.obj
+
+# target to build an object file
+shared/classes/utilizator/Data.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.obj
+.PHONY : shared/classes/utilizator/Data.cpp.obj
+
+shared/classes/utilizator/Data.i: shared/classes/utilizator/Data.cpp.i
+.PHONY : shared/classes/utilizator/Data.i
+
+# target to preprocess a source file
+shared/classes/utilizator/Data.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.i
+.PHONY : shared/classes/utilizator/Data.cpp.i
+
+shared/classes/utilizator/Data.s: shared/classes/utilizator/Data.cpp.s
+.PHONY : shared/classes/utilizator/Data.s
+
+# target to generate assembly for a file
+shared/classes/utilizator/Data.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Data.cpp.s
+.PHONY : shared/classes/utilizator/Data.cpp.s
+
+shared/classes/utilizator/Imprumut.obj: shared/classes/utilizator/Imprumut.cpp.obj
+.PHONY : shared/classes/utilizator/Imprumut.obj
+
+# target to build an object file
+shared/classes/utilizator/Imprumut.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.obj
+.PHONY : shared/classes/utilizator/Imprumut.cpp.obj
+
+shared/classes/utilizator/Imprumut.i: shared/classes/utilizator/Imprumut.cpp.i
+.PHONY : shared/classes/utilizator/Imprumut.i
+
+# target to preprocess a source file
+shared/classes/utilizator/Imprumut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.i
+.PHONY : shared/classes/utilizator/Imprumut.cpp.i
+
+shared/classes/utilizator/Imprumut.s: shared/classes/utilizator/Imprumut.cpp.s
+.PHONY : shared/classes/utilizator/Imprumut.s
+
+# target to generate assembly for a file
+shared/classes/utilizator/Imprumut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Imprumut.cpp.s
+.PHONY : shared/classes/utilizator/Imprumut.cpp.s
+
+shared/classes/utilizator/Utilizator.obj: shared/classes/utilizator/Utilizator.cpp.obj
+.PHONY : shared/classes/utilizator/Utilizator.obj
+
+# target to build an object file
+shared/classes/utilizator/Utilizator.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.obj
+.PHONY : shared/classes/utilizator/Utilizator.cpp.obj
+
+shared/classes/utilizator/Utilizator.i: shared/classes/utilizator/Utilizator.cpp.i
+.PHONY : shared/classes/utilizator/Utilizator.i
+
+# target to preprocess a source file
+shared/classes/utilizator/Utilizator.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.i
+.PHONY : shared/classes/utilizator/Utilizator.cpp.i
+
+shared/classes/utilizator/Utilizator.s: shared/classes/utilizator/Utilizator.cpp.s
+.PHONY : shared/classes/utilizator/Utilizator.s
+
+# target to generate assembly for a file
+shared/classes/utilizator/Utilizator.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\utilizator_biblioteca.dir\build.make CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Biblioteca_virtuala.dir\build.make CMakeFiles/Biblioteca_virtuala.dir/shared/classes/utilizator/Utilizator.cpp.s
+.PHONY : shared/classes/utilizator/Utilizator.cpp.s
 
 # Help Target
 help:
@@ -573,12 +573,6 @@ help:
 	@echo ... Biblioteca_virtuala
 	@echo ... admin_biblioteca
 	@echo ... utilizator_biblioteca
-	@echo ... administrator/Administrator.obj
-	@echo ... administrator/Administrator.i
-	@echo ... administrator/Administrator.s
-	@echo ... administrator/Carte.obj
-	@echo ... administrator/Carte.i
-	@echo ... administrator/Carte.s
 	@echo ... external/imgui/backends/imgui_impl_glfw.obj
 	@echo ... external/imgui/backends/imgui_impl_glfw.i
 	@echo ... external/imgui/backends/imgui_impl_glfw.s
@@ -597,9 +591,6 @@ help:
 	@echo ... external/imgui/imgui_widgets.obj
 	@echo ... external/imgui/imgui_widgets.i
 	@echo ... external/imgui/imgui_widgets.s
-	@echo ... fisiere/GestionareFisiere.obj
-	@echo ... fisiere/GestionareFisiere.i
-	@echo ... fisiere/GestionareFisiere.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
@@ -609,18 +600,27 @@ help:
 	@echo ... main_utilizator.obj
 	@echo ... main_utilizator.i
 	@echo ... main_utilizator.s
-	@echo ... utilizator/Cos.obj
-	@echo ... utilizator/Cos.i
-	@echo ... utilizator/Cos.s
-	@echo ... utilizator/Data.obj
-	@echo ... utilizator/Data.i
-	@echo ... utilizator/Data.s
-	@echo ... utilizator/Imprumut.obj
-	@echo ... utilizator/Imprumut.i
-	@echo ... utilizator/Imprumut.s
-	@echo ... utilizator/Utilizator.obj
-	@echo ... utilizator/Utilizator.i
-	@echo ... utilizator/Utilizator.s
+	@echo ... shared/classes/administrator/Administrator.obj
+	@echo ... shared/classes/administrator/Administrator.i
+	@echo ... shared/classes/administrator/Administrator.s
+	@echo ... shared/classes/administrator/Carte.obj
+	@echo ... shared/classes/administrator/Carte.i
+	@echo ... shared/classes/administrator/Carte.s
+	@echo ... shared/classes/gestionareFisiere/GestionareFisiere.obj
+	@echo ... shared/classes/gestionareFisiere/GestionareFisiere.i
+	@echo ... shared/classes/gestionareFisiere/GestionareFisiere.s
+	@echo ... shared/classes/utilizator/Cos.obj
+	@echo ... shared/classes/utilizator/Cos.i
+	@echo ... shared/classes/utilizator/Cos.s
+	@echo ... shared/classes/utilizator/Data.obj
+	@echo ... shared/classes/utilizator/Data.i
+	@echo ... shared/classes/utilizator/Data.s
+	@echo ... shared/classes/utilizator/Imprumut.obj
+	@echo ... shared/classes/utilizator/Imprumut.i
+	@echo ... shared/classes/utilizator/Imprumut.s
+	@echo ... shared/classes/utilizator/Utilizator.obj
+	@echo ... shared/classes/utilizator/Utilizator.i
+	@echo ... shared/classes/utilizator/Utilizator.s
 .PHONY : help
 
 

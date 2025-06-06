@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "utilizator/Utilizator.h"
+#include "shared/classes/utilizator/Utilizator.h"
 using namespace std;
 
 int main(int argc, char* argv[]) {

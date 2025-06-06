@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/administrator/Carte.cpp" "CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/administrator/Carte.cpp.obj.d"
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/fisiere/GestionareFisiere.cpp" "CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/fisiere/GestionareFisiere.cpp.obj.d"
   "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/main_utilizator.cpp" "CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/main_utilizator.cpp.obj.d"
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator/Cos.cpp" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Cos.cpp.obj.d"
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator/Data.cpp" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Data.cpp.obj.d"
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator/Imprumut.cpp" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Imprumut.cpp.obj.d"
-  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/utilizator/Utilizator.cpp" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/utilizator/Utilizator.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/gestionareFisiere/GestionareFisiere.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/gestionareFisiere/GestionareFisiere.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/utilizator/Cos.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Cos.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/utilizator/Data.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Data.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/utilizator/Imprumut.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Imprumut.cpp.obj.d"
+  "D:/Facultate/Anu 1/Semestrul 2/Biblioteca_virtuala/shared/classes/utilizator/Utilizator.cpp" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj" "gcc" "CMakeFiles/utilizator_biblioteca.dir/shared/classes/utilizator/Utilizator.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

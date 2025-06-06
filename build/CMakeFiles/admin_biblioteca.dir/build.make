@@ -86,48 +86,48 @@ CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.s"
 	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\main_administrator.cpp" -o CMakeFiles\admin_biblioteca.dir\main_administrator.cpp.s
 
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/flags.make
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Administrator.cpp
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj -MF CMakeFiles\admin_biblioteca.dir\administrator\Administrator.cpp.obj.d -o CMakeFiles\admin_biblioteca.dir\administrator\Administrator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp"
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/flags.make
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Administrator.cpp
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj: CMakeFiles/admin_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj -MF CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Administrator.cpp.obj.d -o CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Administrator.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp"
 
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp" > CMakeFiles\admin_biblioteca.dir\administrator\Administrator.cpp.i
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp" > CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Administrator.cpp.i
 
-CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Administrator.cpp" -o CMakeFiles\admin_biblioteca.dir\administrator\Administrator.cpp.s
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Administrator.cpp" -o CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Administrator.cpp.s
 
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/flags.make
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/includes_CXX.rsp
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/administrator/Carte.cpp
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj -MF CMakeFiles\admin_biblioteca.dir\administrator\Carte.cpp.obj.d -o CMakeFiles\admin_biblioteca.dir\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp"
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/flags.make
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/includes_CXX.rsp
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: D:/Facultate/Anu\ 1/Semestrul\ 2/Biblioteca_virtuala/shared/classes/administrator/Carte.cpp
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj: CMakeFiles/admin_biblioteca.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj -MF CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj.d -o CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Carte.cpp.obj -c "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp"
 
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.i"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" > CMakeFiles\admin_biblioteca.dir\administrator\Carte.cpp.i
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.i"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" > CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Carte.cpp.i
 
-CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.s"
-	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\administrator\Carte.cpp" -o CMakeFiles\admin_biblioteca.dir\administrator\Carte.cpp.s
+CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.s"
+	C:\mingw-w64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Facultate\Anu 1\Semestrul 2\Biblioteca_virtuala\shared\classes\administrator\Carte.cpp" -o CMakeFiles\admin_biblioteca.dir\shared\classes\administrator\Carte.cpp.s
 
 # Object files for target admin_biblioteca
 admin_biblioteca_OBJECTS = \
 "CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj" \
-"CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj" \
-"CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj"
+"CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj" \
+"CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj"
 
 # External object files for target admin_biblioteca
 admin_biblioteca_EXTERNAL_OBJECTS =
 
 admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/main_administrator.cpp.obj
-admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/administrator/Administrator.cpp.obj
-admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/administrator/Carte.cpp.obj
+admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Administrator.cpp.obj
+admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/shared/classes/administrator/Carte.cpp.obj
 admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/build.make
 admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/linkLibs.rsp
 admin_biblioteca.exe: CMakeFiles/admin_biblioteca.dir/objects1.rsp
