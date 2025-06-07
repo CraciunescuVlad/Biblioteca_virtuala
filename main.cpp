@@ -21,6 +21,9 @@ void interfata_utilizator() {
     static int nr_exemplare = 1;
     static char numeUtilizator[100] = "";
 
+    static bool afiseazaCartiDisponibile = false;
+    static std::vector<Carte> cartiDisponibile;
+
     // Pentru afisarea cosului in interfata
     static bool afiseazaCos = false;
     static vector<string> cosVizibil;
@@ -84,6 +87,25 @@ void interfata_utilizator() {
             utilizator.stergeCarte(isbn, false);
             mesajFeedback = "Carte stearsa din cos.";
             culoareFeedback = ImVec4(0.3f, 1, 0.3f, 1);
+        }
+    }
+
+    ImGui::Separator();
+
+    if (ImGui::Button("Vizualizeaza carti disponibile")) {
+        cartiDisponibile = GestionareFisiere::incarcaCarti();
+        afiseazaCartiDisponibile = true;
+    }
+
+    if (afiseazaCartiDisponibile) {
+        ImGui::Separator();
+        ImGui::Text("Carti disponibile:");
+        for (const auto& carte : cartiDisponibile) {
+            std::string info = "ISBN: " + carte.getISBN() +
+                               " | Titlu: " + carte.getTitlu() +
+                               " | Autor: " + carte.getAutor() +
+                               " | Stoc: " + std::to_string(carte.getStoc());
+            ImGui::TextWrapped("%s", info.c_str());
         }
     }
 

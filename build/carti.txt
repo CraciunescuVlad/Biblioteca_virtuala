@@ -11,11 +11,11 @@ Autor 1
 Carte 3
 Autor 3
 0
-3006
-Carte 4
-Autor 4
-1
 100
 Test Titlu
 Test Autor
 4
+4567
+Titlu
+Autor
+2
